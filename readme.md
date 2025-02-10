@@ -71,18 +71,18 @@
 > ```
 ```
 {
-  "TRAIN_NO": "12318",
+  "TRAIN_NO": "13185",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "TRAVEL_DATE": "11/02/2025",
+  "SOURCE_STATION": "SDAH",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
-  "DESTINATION_STATION": "BSB",
+  "DESTINATION_STATION": "DBG",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "SHIVAM PANDEY",
+      "NAME": "S Jha",
       "AGE": 25,
       "GENDER": "Male",
       "SEAT": "Side Upper",
