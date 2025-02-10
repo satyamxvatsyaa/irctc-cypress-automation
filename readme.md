@@ -109,27 +109,27 @@
 - You can add multiple passenger array of objects in `PASSENGER_DETAILS` as an example below
 ```
 {
-  "TRAIN_NO": "12318",
+  "TRAIN_NO": "13185",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "12/09/2023",
-  "SOURCE_STATION": "UMB",
+  "TRAVEL_DATE": "11/02/2025",
+  "SOURCE_STATION": "SDAH",
   "BOARDING_STATION": null, <-- Change to full station name if required, else leave null
-  "DESTINATION_STATION": "BSB",
+  "DESTINATION_STATION": "DBG",
   "TATKAL": true,
    "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
   "PASSENGER_DETAILS": [
     {
-      "NAME": "SHIVAM PANDEY",
-      "AGE": 26,
+      "NAME": "SATYAM JHA",
+      "AGE": 18,
       "GENDER": "Male",
       "SEAT": "Side Upper",
       "FOOD" "No Food"
     },
     {
-      "NAME": "Rachna Bhagat",
-      "AGE": 26,
-      "GENDER": "Female",
+      "NAME": "SUNIL JHA",
+      "AGE": 45,
+      "GENDER": "MALE",
       "SEAT": "Side Lower",
       "FOOD" "No Food"
     },
@@ -154,8 +154,8 @@
 
 ```
 {
-    "USERNAME": "yourusername",
-    "PASSWORD": "yourpassword",
+    "USERNAME": "SunilJha1",
+    "PASSWORD": "Suniljha1",
     "MANUAL_CAPTCHA": false
 }
 ```
